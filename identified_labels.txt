@@ -1,0 +1,5 @@
+A: Military Vehicles
+B: Destroyed buildings
+C: Combat
+D: Fire
+E: Fire
