@@ -43,10 +43,10 @@
 #define GREEN_LED 1 //  Specifies the ID of the green LED.
 #define RED_LED 2   //  Specifies the ID of the red LED.
 
-const char *ssid = "RR520A6B";             // Enter your wifi hotspot ssid
-const char *password = "Welcome123$$$%%%"; // Enter your wifi hotspot password
+const char *ssid = "";             // Enter your wifi hotspot ssid
+const char *password = ""; // Enter your wifi hotspot password
 const uint16_t port = 8002;                // Enter the port number of your laptop after connecting it to the wifi hotspot
-const char *host = "192.168.0.156";        // Enter the ip address of your laptop after connecting it to the wifi hotspot
+const char *host = "";        // Enter the ip address of your laptop after connecting it to the wifi hotspot
 char incomingPacket[80];
 WiFiClient client;
 /*
